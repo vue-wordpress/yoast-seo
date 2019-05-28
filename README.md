@@ -1,2 +1,5 @@
-# vue-wp-json-yoast
-Yoast SEO extension for Vue WP REST API module
+#  🤓 Vue WordPress Yoast SEO
+
+<br>
+
+Gain more options and possibilities with your app's meta info with Yoast SEO module.
